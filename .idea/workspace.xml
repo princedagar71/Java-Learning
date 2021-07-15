@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0396e9f7-daf7-4f7d-845a-6c7b382701d7" name="Default Changelist" comment="&quot;Switch &amp; Logic Operator Complete&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/company/6. Loops.java" afterDir="false" />
+    <list default="true" id="0396e9f7-daf7-4f7d-845a-6c7b382701d7" name="Default Changelist" comment="&quot;Loops Complete&quot;">
+      <change afterPath="$PROJECT_DIR$/src/com/company/7.Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,20 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Loops">
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array" />
+      <module name="Java Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Conditional_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Conditional_Operators" />
       <module name="Java Learning" />
@@ -117,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Operators" />
-      <module name="Java Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Switch" />
       <module name="Java Learning" />
@@ -144,19 +144,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Operators" />
       <item itemvalue="Application.Conditional_Statements" />
       <item itemvalue="Application.Conditional_Operators" />
       <item itemvalue="Application.Switch" />
       <item itemvalue="Application.Loops" />
+      <item itemvalue="Application.Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.Conditional_Operators" />
         <item itemvalue="Application.Conditional_Statements" />
-        <item itemvalue="Application.Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626363915783</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;Loops Complete&quot;">
+      <created>1626364704601</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626364704601</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +262,7 @@
     <MESSAGE value="&quot;Conditional Statements Complete&quot;" />
     <MESSAGE value="&quot;Conditional Operators Complete&quot;" />
     <MESSAGE value="&quot;Switch &amp; Logic Operator Complete&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Switch &amp; Logic Operator Complete&quot;" />
+    <MESSAGE value="&quot;Loops Complete&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Loops Complete&quot;" />
   </component>
 </project>
