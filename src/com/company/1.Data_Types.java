@@ -7,16 +7,16 @@ class Data_Types{
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter age:");
         int n =sc.nextInt();
-        sc.nextLine();
+        //sc.nextLine();
         System.out.println("Enter House size in sq.mtrs:");
         float hm=sc.nextFloat();
-        sc.nextLine();
+        //sc.nextLine();
         System.out.println("Enter No. for Double Data-Type :");
         double num=sc.nextDouble();
-        sc.nextLine();
+        //sc.nextLine();
         System.out.println("Earth is flat (T/F):");
         boolean ans=sc.nextBoolean();
-        sc.nextLine();
+        sc.nextLine();//write  this just before passing string otherwise it will not be stored
         System.out.println("Enter your name:");
         String name;
         name = sc.nextLine();
