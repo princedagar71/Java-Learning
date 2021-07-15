@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0396e9f7-daf7-4f7d-845a-6c7b382701d7" name="Default Changelist" comment="&quot;Data Type Complete with Scanner&quot;">
-      <change beforePath="$PROJECT_DIR$/src/com/company/1.Data_Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/1.Data_Types.java" afterDir="false" />
+    <list default="true" id="0396e9f7-daf7-4f7d-845a-6c7b382701d7" name="Default Changelist" comment="&quot;Data Types Final&quot;">
+      <change afterPath="$PROJECT_DIR$/src/com/company/2.Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/3. Conditional_Statements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Data_Types">
+  <component name="RunManager" selected="Application.Operators">
     <configuration name="Data_Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Data_Types" />
       <module name="Java Learning" />
@@ -100,12 +102,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Operators" />
+      <module name="Java Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Data_Types" />
+      <item itemvalue="Application.Operators" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operators" />
         <item itemvalue="Application.Data_Types" />
         <item itemvalue="Application.Main" />
       </list>
@@ -141,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626359647649</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Data Types Final&quot;">
+      <created>1626359946768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626359946768</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;Data Types Final&quot;">
+      <created>1626359954589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626359954589</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +190,7 @@
     <MESSAGE value="First Commit gitignore" />
     <MESSAGE value="Add Data Types" />
     <MESSAGE value="&quot;Data Type Complete with Scanner&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Data Type Complete with Scanner&quot;" />
+    <MESSAGE value="&quot;Data Types Final&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Data Types Final&quot;" />
   </component>
 </project>
