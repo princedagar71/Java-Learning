@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0396e9f7-daf7-4f7d-845a-6c7b382701d7" name="Default Changelist" comment="&quot;Operators Complete&quot;">
-      <change beforePath="$PROJECT_DIR$/src/com/company/3. Conditional_Statements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/3. Conditional_Statements.java" afterDir="false" />
+    <list default="true" id="0396e9f7-daf7-4f7d-845a-6c7b382701d7" name="Default Changelist" comment="&quot;Conditional Statements Complete&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/4.Conditional Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/4.Conditional Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,20 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Conditional_Statements">
+  <component name="RunManager" selected="Application.Conditional_Operators">
+    <configuration name="Conditional_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Conditional_Operators" />
+      <module name="Java Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Conditional_Statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Conditional_Statements" />
       <module name="Java Learning" />
@@ -131,9 +145,11 @@
       <item itemvalue="Application.Data_Types" />
       <item itemvalue="Application.Operators" />
       <item itemvalue="Application.Conditional_Statements" />
+      <item itemvalue="Application.Conditional_Operators" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditional_Operators" />
         <item itemvalue="Application.Conditional_Statements" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.Data_Types" />
@@ -192,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626361555606</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;Conditional Statements Complete&quot;">
+      <created>1626362318386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626362318386</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +235,7 @@
     <MESSAGE value="&quot;Data Type Complete with Scanner&quot;" />
     <MESSAGE value="&quot;Data Types Final&quot;" />
     <MESSAGE value="&quot;Operators Complete&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Operators Complete&quot;" />
+    <MESSAGE value="&quot;Conditional Statements Complete&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Conditional Statements Complete&quot;" />
   </component>
 </project>
